@@ -4,6 +4,7 @@
 - 🌱 I’m gradually turning this collection of abandoned hobby projects into a portfolio.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: first dot last at gmail... assuming you know my name
+- I draw cartoon avatars for my fellow devs--sometimes even the PMs--to use in chat
 
 ## How I Code
 * Professionally, I'm a Linux systems programmer and code in C, Python, and Assembly  
